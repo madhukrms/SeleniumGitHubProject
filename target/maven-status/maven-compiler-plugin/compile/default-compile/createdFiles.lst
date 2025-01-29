@@ -1,0 +1,6 @@
+MadhuTechnologies\pageObjects\CheckoutPage.class
+MadhuTechnologies\pageObjects\CartPage.class
+MadhuTechnologies\pageObjects\ConfirmationPage.class
+MadhuTechnologies\pageObjects\ProducCatalogue.class
+MadhuTechnologies\AbstractComponents\AbstractComponent.class
+MadhuTechnologies\pageObjects\LandingPage.class
