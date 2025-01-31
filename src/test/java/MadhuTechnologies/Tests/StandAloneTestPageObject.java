@@ -15,6 +15,8 @@ import MadhuTechnologies.pageObjects.ProducCatalogue;
 
 public class StandAloneTestPageObject extends BaseTest {
 
+// New comments added
+
 	@Test
 	public void StandAloneTest() throws IOException {
 		String productName = "ADIDAS ORIGINAL";
